@@ -7,6 +7,7 @@ namespace MSBuildDemoProject
         public static void Main()
         {
             Console.WriteLine("MS Build is working just fine !!!");
+            Console
         }
     }
 }
